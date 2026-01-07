@@ -1,4 +1,4 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
-    "redhat.java.server.launchMode": "Standard"
+    "redhat.java.server.launchMode": "Standard",
 }
