@@ -3,7 +3,7 @@ Pour lancer le projet, il faut faire un clic droit sur le fichier `Main.java` da
 
 L'icône de lecture dans la barre d'outils en haut de l'éditeur permet également de lancer le projet.
 
-## Debugger le projet
+## Deboguer le projet
 Pour déboguer le projet, il faut faire un clic droit sur le fichier `Main.java` dans l'explorateur de fichiers et choisir "Debug Java".
 
 L'icône de débogage dans la barre d'outils en haut de l'éditeur permet également de lancer le débogueur si un point d'arrêt est défini dans le code.
